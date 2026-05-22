@@ -52,13 +52,19 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ## 🖼️ Capturas de tela
 
 ### Tela de Login
-![Tela de Login] (imagens/Login.png)
+<p align="center">
+  <img src="images/Login.png" width="600">
+</p>
 
 ### Login efetuado com sucesso
-> Adicionar imagem aqui
+<p align="center">
+  <img src="images/alerta com login efetuado.png" width="600">
+</p>
 
 ### Mensagem de erro
-> Adicionar imagem aqui
+<p align="center">
+  <img src="images/alerta com email e senha null.png" width="600">
+</p>
 
 ---
 
