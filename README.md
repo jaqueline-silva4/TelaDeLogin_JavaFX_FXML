@@ -52,14 +52,14 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ## 🖼️ Capturas de tela
 
 ### Tela de Login
-![Tela de Login](images/Login.png)
+![Tela de Login](imagens/Login.png)
 
 ### Login efetuado com sucesso
-![Login Efetuado](images/login_efetuado.png)
+![Login Efetuado](imagens/login_efetuado.png)
 
 
 ### Mensagem de erro
-![ERRO no Login](images/login_erro.png)
+![ERRO no Login](imagens/login_erro.png)
 
 
 ---
