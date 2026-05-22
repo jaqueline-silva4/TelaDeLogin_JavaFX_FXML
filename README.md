@@ -64,12 +64,3 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ---
 
-## 📂 Estrutura do projeto
-
-```bash
-src
- └── JavaApplication2
-      ├── JavaApplication2.java
-      ├── LoginController.java
-      ├── Tela.fxml
-      └── estilo.css
