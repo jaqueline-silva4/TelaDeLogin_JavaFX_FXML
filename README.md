@@ -55,11 +55,11 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ![Tela de Login](images/Login.png)
 
 ### Login efetuado com sucesso
-![Login Efetuado](images/alerta com login efetuado.png)
+![Login Efetuado](images/login_efetuado.png)
 
 
 ### Mensagem de erro
-![ERRO no Login](images/alerta com email e senha null.png)
+![ERRO no Login](images/login_erro.png)
 
 
 ---
